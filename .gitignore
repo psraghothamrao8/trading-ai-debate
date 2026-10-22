@@ -1,3 +1,9 @@
 ﻿runs/**/prompt_*.txt
 discover.err
 
+
+algo/data/
+algo/alerts.log
+algo/live.out
+algo/live.err
+algo/__pycache__/
